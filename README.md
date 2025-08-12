@@ -1,5 +1,7 @@
 --[[
+
     Aimbot por Team TEST © CC0 1.0 Universal (2025)
+
     https://github.com/TeamTEST/Aimbot
 
 ]]
